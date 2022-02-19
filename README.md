@@ -1,0 +1,3 @@
+ # SnapCap Discord Bot
+
+ 
