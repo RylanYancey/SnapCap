@@ -1,7 +1,7 @@
 
 use neon::prelude::*;
 
-use artano::{Position, Annotation};
+use artano::Position;
 use image::open;
 use rusttype::Font;
 use std::fs::read;

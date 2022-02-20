@@ -16,6 +16,24 @@
 
         Your IDS have to be Strings
 
-- JSON
+- Screen
 
-        gl
+        - screen ls
+
+        - screen -R
+                Reattach
+
+        - screen
+                make new screen
+
+        - CNTR+A+D
+                back to main terminal
+        
+- loink
+
+        https://discord.com/api/oauth2/authorize?client_id=942221541922472028&permissions=34816&scope=bot%20applications.commands
+
+
+say yes to lonk
+say no to link
+

@@ -1,4 +1,8 @@
 
+/*
+    Deprecated - Used for Testing only
+*/
+
 const { SlashCommandBuilder } = require('@discordjs/builders');
 const { get_num_cpus } = require('../index.node')
 

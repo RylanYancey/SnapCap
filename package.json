@@ -24,6 +24,7 @@
   ],
   "dependencies": {
     "@discordjs/rest": "^0.3.0",
+    "bot-cooldown": "^1.2.2",
     "discord-api-types": "^0.27.1",
     "discord.js": "^13.6.0"
   }
