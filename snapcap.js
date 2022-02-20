@@ -9,7 +9,7 @@ const { Routes } = require('discord-api-types/v9');
 const cooldown = require('bot-cooldown');
 
 // get the logger
-const logger = require('../logs/logger.js')
+const logger = require('./logs/logger.js')
 
 // Require the necessary discord.js classes
 const {
